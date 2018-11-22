@@ -45,4 +45,20 @@ This is footprints and schematics libary for Altium Designer. But some footprint
 | FPC 30 | 0.5mm | 30 | 30 pin FPC connector |
 | HC-05 | | 34 | HC-05 BT |
 | CD54 | 2.4mm | 2 | SMD inductor |
-
+| RGB LED | 1.295mm | 4 | 5mm RGB LED |
+| 5050 | | 4 | WS2812B RGB LED chip |
+| MSOP10 | 0.5mm | 10 | |
+| Potentiometer | | 3 | THT |
+| Potentiometer | | 3 | SMD |
+| Push Button | 4mm | 2 | small SMD push button |
+| PCB Push Button | | 2 | PCB push button |
+| SOIC 8 | 1.27mm | 8 | With thermal pad |
+| SOIC 18 | 1.27mm | 18 | |
+| SOOP 20 | 0.65mm | 20 | |
+| SSR | | 4 | |
+| 2 Way Switch | | 3 | THT |
+| 2 Way Switch | | 6 | SMD |
+| TDFN 12 | 0.5mm | 12 | |
+| TS3USB221 Footprint | 0.5mm | 10 | Special footprint |
+| USB 3.0 | | | Type A Female - THT |
+| USB 2.0 | | | Micro - SMD |
