@@ -1,5 +1,5 @@
 # Altium Footprints and Schematics library.
-This is footprints and schematics libary for Altium Designer. But some footprints are not conating for my schematic library. Here the availble footprints and schematics details in mylibrary.<br />
+This is footprints and schematics libary for Altium Designer. But some footprints are not containing for my schematic library. Here the availble footprints and schematics details in mylibrary.<br />
 
 ## Schematic components
 - 74HC595
