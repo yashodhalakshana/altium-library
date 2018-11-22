@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/dwyl/hits.svg)](https://github.com/dwyl/hits)
+[![HitCount](http://hits.dwyl.io/dwyl/hits.svg)](https://github.com/yashodhalakshana/altium-library)
 # Altium Footprints and Schematics library.
 This is footprints and schematics libary for Altium Designer. But some footprints are not containing for my schematic library. Here the availble footprints and schematics details in mylibrary.<br />
 
