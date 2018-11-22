@@ -31,4 +31,8 @@ This is footprints and schematics libary for Altium Designer. But some footprint
 - TXB0108 - 8 bit bidirectional level shifter
 - USB 3.0 A Female connector
 - USB micro B
-
+## Footprint components
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
