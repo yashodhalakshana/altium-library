@@ -32,7 +32,17 @@ This is footprints and schematics libary for Altium Designer. But some footprint
 - USB 3.0 A Female connector
 - USB micro B
 ## Footprint components
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Footprint | Pitch | Pin count | Description |
+| --- | --- | --- | --- |
+| QFP | 0.5mm | 64 | |
+| CR2032 | SMD & THT | 2 | |
+| 1615 | | 4 | Bi color SMD LED |
+| DO214-AC | 3.76mm | 2 | |
+| ESP-32| 1.27mm | 39 | ESP-32 WiFi chip |
+| FPC 6 | 0.5mm | 6 | 6 pin FPC connector |
+| FPC 10 | 0.5mm | 10 | 10 pin FPC connector |
+| FPC 20 | 0.5mm | 20 | 20 pin FPC connector |
+| FPC 30 | 0.5mm | 30 | 30 pin FPC connector |
+| HC-05 | | 34 | HC-05 BT |
+| CD54 | 2.4mm | 2 | SMD inductor |
+
