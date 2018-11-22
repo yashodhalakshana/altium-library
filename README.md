@@ -2,7 +2,7 @@
 This is footprints and schematics libary for Altium Designer. But some footprints are not conating for my schematic library. Here the availble footprints and schematics details in mylibrary.<br />
 
 ## Schematic components
-*74HC595
+Markup : *74HC595
 *2032 Coin cell
 AD5290 - Digital Potentiometer
 ADP1708, MIC5219 - LDO Regulator
